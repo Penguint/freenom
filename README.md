@@ -276,7 +276,7 @@ $ cd /data/wwwroot/freenom/ && php run
 
 ![同意启用 Actions](https://s1.ax1x.com/2020/07/09/UeRusP.png "同意启用 Actions")
 
-4、修改项目 README.md 文件内容并提交一次，解决 Github Actions 计划任务的 Bug
+4、修改项目 README.md 文件内容并提交一次，解决 Github Actions 计划任务的 Bug --done--
 
 ![修改 README.md 文件 01](https://s1.ax1x.com/2020/07/09/UeWO39.png "修改 README.md 文件 01")
 
